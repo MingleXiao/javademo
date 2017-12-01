@@ -20,6 +20,7 @@
     <module>turbine</module>
     <module>service-admin</module>
     <module>service-admin-client</module>
+      <module>javaagent</module>
   </modules>
   
   	<parent>
